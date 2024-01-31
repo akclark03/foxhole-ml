@@ -1,0 +1,4 @@
+*
+!foxhole/
+!pyproject.toml
+!poetry.lock

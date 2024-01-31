@@ -1,0 +1,10 @@
+{
+    // Formatters
+    "python.formatting.provider": "black",
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+        "source.organizeImports": "explicit"
+    },
+    // Testing
+    "python.testing.pytestEnabled": true
+  }
